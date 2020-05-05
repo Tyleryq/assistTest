@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">assistTest</string>
+    <string name="tip">使用前请到设置-安全-使用情况访问权限 中给本应用开启该权限\n
+        需在应用启动管理中允许本应用后台活动\n
+        需允许在其他应用上层显示\n
+        否则无法正常使用\n
+        小米,魅族可能无法正常使用.
+    </string>
+    <string name="help">使用说明</string>
+</resources>
